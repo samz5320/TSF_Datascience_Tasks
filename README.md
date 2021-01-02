@@ -1,4 +1,4 @@
-# TSF_Datascience_Tasks
+# TSF_GRIP_Datascience_Tasks
 
 # Task1
 Prediction using Supervised ML
