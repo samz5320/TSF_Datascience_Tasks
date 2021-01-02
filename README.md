@@ -13,7 +13,7 @@ Prediction using Supervised ML
 
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
-#Task 2
+# Task 2
 Prediction using Unsupervised ML
 
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
@@ -22,7 +22,7 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
 
 ● Dataset : https://bit.ly/3kXTdox
 
-#Task 3
+# Task 3
 Prediction using Decision Tree Algorithm
 
 Create the Decision Tree classifier and visualize it graphically.
